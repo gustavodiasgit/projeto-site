@@ -30,6 +30,10 @@ img.lado {
     float: right;
 }
 
+img.lado {
+    float: right;
+}
+
 a {
     text-decoration: none;
     font-weight: bold;
